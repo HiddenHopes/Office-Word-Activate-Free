@@ -1,0 +1,15 @@
+How to Use:
+Save one of the above codes as a .bat file (e.g., Activate_Office.bat)
+
+Right-click the file and select "Run as administrator"
+
+Follow the on-screen instructions
+
+Important Notes:
+⚠️ Legal Disclaimer: Only use this for legitimate Office licenses you own. Microsoft's licensing terms should be respected.
+
+⚠️ KMS Servers: The KMS server (e8.us.to) might not always be available. You may need to find alternative KMS servers.
+
+⚠️ Administrator Rights: This absolutely requires administrator privileges to work.
+
+The enhanced version includes better error handling and retry logic, which is helpful since KMS activation can sometimes fail due to server issues.
